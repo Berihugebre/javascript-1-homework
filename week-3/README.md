@@ -9,7 +9,7 @@
 | :fire: [janke: test cases](./jl-test-cases.md) |:white_check_mark: | | :green_heart: | |
 | :fire: [janke: operator precedence](./jl-operator-precedence.md) |:white_check_mark: | | :green_heart: | |
 | :fire: [FCC: basic algorithms](./fcc-basic-algorithms.md) | :white_check_mark:| | :green_heart: | |
-| :fire: [janke: expanding expressions](./jl-expanding-expressions.md) |:white_check_mark: |fixed! | :warning: | all primitives 1 - your test cases fail the original, but pass your expansion: which is wrong? (otherwise :+1:)  |
+| :fire: [janke: expanding expressions](./jl-expanding-expressions.md) |:white_check_mark: |fixed! | :white_check_mark: | fixed!  |
 | :fire: [janke: replicate ```==```](./jl-replicate-loose-equality.md) | | | | |
 | :fire: [janke: ref-type arguments](./jl-reference-type-arguments.md) |:white_check_mark: |[Here](https://github.com/Berihugebre/javascript-1-homework/blob/master/week-2/jl-functions-ref-type-args.md) | :green_heart: | |
 | :fire: [janke: functions as arguments](./jl-functions-as-arguments.md) |:white_check_mark:  | | :green_heart: | |
